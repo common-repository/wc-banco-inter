@@ -1,0 +1,28 @@
+.copy-link, .input-group, .pt-5{
+    display: flex;
+}
+.copy-link-button, .input-group-addon{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 0 5px 5px 0;
+    padding: 5px 8px 5px 8px;
+    cursor: pointer;
+}
+.copy-link-input, .copy-link-input-boleto{
+    height: 41px !important;
+}
+
+.input-group-left{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px 0px 0px 5px;
+    padding: 5px 8px 5px 8px;
+    cursor: pointer;
+}
+
+.labelBoleto{
+    margin: 0;
+}
+.labelPix{
+    margin: 0;
+}
